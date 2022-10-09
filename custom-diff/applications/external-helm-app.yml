@@ -30,6 +30,6 @@ spec:
   - group: ""
     kind: Deployment
     jsonPointers:
-    - /metadata/annotations/creation
+    - /metadata
   
    
